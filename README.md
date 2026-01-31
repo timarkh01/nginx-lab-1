@@ -12,7 +12,7 @@
 Клонировать репозиторий:
 ```
 git clone https://github.com/timarkh01/nginx-lab-1.git
-cd nginx-lab
+cd nginx-lab-1
 ```
 Запустить контейнеры:
 
